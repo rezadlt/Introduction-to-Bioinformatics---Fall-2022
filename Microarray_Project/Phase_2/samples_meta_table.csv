@@ -1,0 +1,171 @@
+Group,Accession,Title,Source name,Phenotype
+Aml,GSM1180750,Primary AML sample 40,AML Patient,Leukemia
+Aml,GSM1180751,Primary AML sample 41,AML Patient,Leukemia
+Aml,GSM1180752,Primary AML sample 42,AML Patient,Leukemia
+Aml,GSM1180753,Primary AML sample 44,AML Patient,Leukemia
+Aml,GSM1180754,Primary AML sample 1,AML Patient,Leukemia
+Aml,GSM1180755,Primary AML sample 3,AML Patient,Leukemia
+Aml,GSM1180756,Primary AML sample 8,AML Patient,Leukemia
+Aml,GSM1180757,Primary AML sample 12,AML Patient,Leukemia
+Aml,GSM1180758,Primary AML sample 14,AML Patient,Leukemia
+Aml,GSM1180759,Primary AML sample 27,AML Patient,Leukemia
+Aml,GSM1180760,Primary AML sample 28,AML Patient,Leukemia
+Aml,GSM1180761,Primary AML sample 33,AML Patient,Leukemia
+Aml,GSM1180762,Primary AML sample 39,AML Patient,Leukemia
+Aml,GSM1180763,NALM6-2,B ALL Cell Line,Leukemia
+Aml,GSM1180764,SUPB15-2,B ALL Cell Line,Leukemia
+Aml,GSM1180765,RCHACV-2,B ALL Cell Line,Leukemia
+Aml,GSM1180766,KASUMI2-2,B ALL Cell Line,Leukemia
+Aml,GSM1180767,CEM-2,T ALL Cell Line,Leukemia
+Aml,GSM1180768,JURKAT-2,T ALL Cell Line,Leukemia
+Aml,GSM1180769,MHH-CALL3-2,B ALL Cell Line,Leukemia
+Aml,GSM1180770,KARPAS45-3,T ALL Cell Line,Leukemia
+Aml,GSM1180771,NALM6-3,B ALL Cell Line,Leukemia
+Aml,GSM1180772,SUPB15-3,B ALL Cell Line,Leukemia
+Aml,GSM1180773,KARPAS45-1,T ALL Cell Line,Leukemia
+Aml,GSM1180774,RCHACV-3,B ALL Cell Line,Leukemia
+Aml,GSM1180775,KASUMI2-3,B ALL Cell Line,Leukemia
+Aml,GSM1180776,CEM-3,T ALL Cell Line,Leukemia
+Aml,GSM1180777,JURKAT-3,T ALL Cell Line,Leukemia
+Aml,GSM1180778,MHH-CALL3-3,B ALL Cell Line,Leukemia
+Aml,GSM1180779,NALM6-1,B ALL Cell Line,Leukemia
+Aml,GSM1180780,SUPB15-1,B ALL Cell Line,Leukemia
+Aml,GSM1180781,RCHACV-1,B ALL Cell Line,Leukemia
+Aml,GSM1180782,KASUMI2-1,B ALL Cell Line,Leukemia
+Aml,GSM1180783,CEM-1,T ALL Cell Line,Leukemia
+Aml,GSM1180784,JURKAT-1,T ALL Cell Line,Leukemia
+Aml,GSM1180785,MHH-CALL3-1,B ALL Cell Line,Leukemia
+Aml,GSM1180786,KARPAS45-2,T ALL Cell Line,Leukemia
+Aml,GSM1180787,Primary B-ALL sample 17,B ALL Patient,Leukemia
+Aml,GSM1180788,MOLT16-1,T ALL Cell Line,Leukemia
+Aml,GSM1180789,ML2-1,AML Cell Line,Leukemia
+H,GSM1180790,Normal Granulocyte-1,Granulocytes,Normal
+Aml,GSM1180791,Primary B-ALL sample 22,B ALL Patient,Leukemia
+Aml,GSM1180792,MOLT16-2,T ALL Cell Line,Leukemia
+Aml,GSM1180793,ML2-2,AML Cell Line,Leukemia
+H,GSM1180794,Normal Granulocyte-2,Granulocytes,Normal
+Aml,GSM1180795,Primary B-ALL sample 23,B ALL Patient,Leukemia
+Aml,GSM1180796,MOLT16-3,T ALL Cell Line,Leukemia
+Aml,GSM1180797,ML2-3,AML Cell Line,Leukemia
+Aml,GSM1180798,Primary B-ALL sample 25-1,B ALL Patient,Leukemia
+Aml,GSM1180799,K562-1,AML Cell Line,Leukemia
+Aml,GSM1180800,M07e-1,AML Cell Line,Leukemia
+Aml,GSM1180801,Primary B-ALL sample 27,B ALL Patient,Leukemia
+Aml,GSM1180802,K562-2,AML Cell Line,Leukemia
+Aml,GSM1180803,M07e-2,AML Cell Line,Leukemia
+Aml,GSM1180804,Primary B-ALL sample 29,B ALL Patient,Leukemia
+Aml,GSM1180805,K562-3,AML Cell Line,Leukemia
+Aml,GSM1180806,M07e-3,AML Cell Line,Leukemia
+Aml,GSM1180807,Primary B-ALL sample 30,B ALL Patient,Leukemia
+Aml,GSM1180808,MUTZ5-1,B ALL Cell Line,Leukemia
+Aml,GSM1180809,U937-1,AML Cell Line,Leukemia
+Aml,GSM1180810,Primary B-ALL sample 19-spleen,B ALL Patient,Leukemia
+Aml,GSM1180811,MUTZ5-2,B ALL Cell Line,Leukemia
+Aml,GSM1180812,U937-2,AML Cell Line,Leukemia
+Aml,GSM1180813,Primary B-ALL sample 21-spleen-2,B ALL Patient,Leukemia
+Aml,GSM1180814,MUTZ5-3,B ALL Cell Line,Leukemia
+Aml,GSM1180815,U937-3,AML Cell Line,Leukemia
+Aml,GSM1180816,Primary B-ALL sample 23-spleen-2,B ALL Patient,Leukemia
+Aml,GSM1180817,MHH-CALL4-1,B ALL Cell Line,Leukemia
+H,GSM1180818,Normal B-cell-1,B Cells,Normal
+Aml,GSM1180819,REH-1,B ALL Cell Line,Leukemia
+H,GSM1180820,Normal T cell-1,T Cells,Normal
+Aml,GSM1180821,HL60-1,AML Cell Line,Leukemia
+Aml,GSM1180822,Primary B-ALL sample 21-bone marrow,B ALL Patient,Leukemia
+Aml,GSM1180823,MHH-CALL4-2,B ALL Cell Line,Leukemia
+H,GSM1180824,Normal Granulocyte-3,Granulocytes,Normal
+Aml,GSM1180825,MHH-CALL4-3,B ALL Cell Line,Leukemia
+H,GSM1180826,Normal Granulocyte-4,Granulocytes,Normal
+H,GSM1180827,Normal Monocyte-1,Monocytes,Normal
+H,GSM1180828,Normal Monocyte-2,Monocytes,Normal
+H,GSM1180829,Normal B-cell-2,B Cells,Normal
+Aml,GSM1180830,REH-2,B ALL Cell Line,Leukemia
+H,GSM1180831,Normal T cell-2,T Cells,Normal
+Aml,GSM1180832,HL60-2,AML Cell Line,Leukemia
+Aml,GSM1180833,REH-3,B ALL Cell Line,Leukemia
+H,GSM1180834,Normal T cell-3,T Cells,Normal
+H,GSM1180835,Normal T cell-4,T Cells,Normal
+Aml,GSM1180836,HL60-3,AML Cell Line,Leukemia
+Aml,GSM1180837,KOPN8-1,B ALL Cell Line,Leukemia
+H,GSM1180838,Normal T cell-5,T Cells,Normal
+H,GSM1180839,Normal T cell-6,T Cells,Normal
+Aml,GSM1180840,KG1a-1,AML Cell Line,Leukemia
+H,GSM1180841,Normal B cell-3,B Cells,Normal
+Aml,GSM1180842,KOPN8-2,B ALL Cell Line,Leukemia
+H,GSM1180843,Normal T cell-7,T Cells,Normal
+Aml,GSM1180844,KG1a-2,AML Cell Line,Leukemia
+H,GSM1180845,Normal B cell-4,B Cells,Normal
+Aml,GSM1180846,KOPN8-3,B ALL Cell Line,Leukemia
+H,GSM1180847,Normal T cell-8,T Cells,Normal
+Aml,GSM1180848,KG1a-3,AML Cell Line,Leukemia
+H,GSM1180849,Normal CD34+ cell-1,CD34+HSPC,Normal
+Aml,GSM1180850,MOLT3-1,T ALL Cell Line,Leukemia
+Aml,GSM1180851,Primary T-ALL sample 1,T ALL Patient,Leukemia
+Aml,GSM1180852,KASUMI1-1,AML Cell Line,Leukemia
+H,GSM1180853,Normal CD34+ cell-2,CD34+HSPC,Normal
+Aml,GSM1180854,MOLT3-2,T ALL Cell Line,Leukemia
+Aml,GSM1180855,Primary T-ALL sample 1-spleen,T ALL Patient,Leukemia
+Aml,GSM1180856,KASUMI1-2,AML Cell Line,Leukemia
+H,GSM1180857,Normal CD34+ cell-3,CD34+HSPC,Normal
+Aml,GSM1180858,MOLT3-3,T ALL Cell Line,Leukemia
+Aml,GSM1180859,Primary T-ALL sample 4-spleen-2,T ALL Patient,Leukemia
+Aml,GSM1180860,KASUMI1-3,AML Cell Line,Leukemia
+Aml,GSM1180861,Primary T-ALL sample 15,T ALL Patient,Leukemia
+Aml,GSM1180862,Primary B-ALL sample 4-spleen,B ALL Patient,Leukemia
+Aml,GSM1180863,Primary B-ALL sample 5,B ALL Patient,Leukemia
+Aml,GSM1180864,Primary B-ALL sample 16,B ALL Patient,Leukemia
+Aml,GSM1180865,Primary B-ALL sample 21-spleen-1,B ALL Patient,Leukemia
+Aml,GSM1180866,Primary B-ALL sample 23-spleen-1,B ALL Patient,Leukemia
+Aml,GSM1180867,Primary B-ALL sample 25-2,B ALL Patient,Leukemia
+Aml,GSM1180868,Primary B-ALL sample 40,B ALL Patient,Leukemia
+Aml,GSM1180869,Primary B-ALL sample 41,B ALL Patient,Leukemia
+Aml,GSM1180870,Primary B-ALL sample 42,B ALL Patient,Leukemia
+Aml,GSM1180871,Primary T-ALL sample 6-bone marrow,T ALL Patient,Leukemia
+Aml,GSM1180872,Primary B-ALL sample 42-spleen,B ALL Patient,Leukemia
+Aml,GSM1180873,Primary B-ALL sample 43-spleen-1,B ALL Patient,Leukemia
+Aml,GSM1180874,Primary B-ALL sample 43-spleen-2,B ALL Patient,Leukemia
+Aml,GSM1180875,Primary B-ALL sample 46,B ALL Patient,Leukemia
+Aml,GSM1180876,Primary B-ALL sample 47,B ALL Patient,Leukemia
+Aml,GSM1180877,Primary B-ALL sample 48-spleen,B ALL Patient,Leukemia
+Aml,GSM1180878,Primary B-ALL sample 50-spleen,B ALL Patient,Leukemia
+Aml,GSM1180879,Primary T-ALL sample 7-bone marrow,T ALL Patient,Leukemia
+Aml,GSM1180880,Primary T-ALL sample 8,T ALL Patient,Leukemia
+Aml,GSM1180881,Primary T-ALL sample 9,T ALL Patient,Leukemia
+Aml,GSM1180882,Primary T-ALL sample 10,T ALL Patient,Leukemia
+Aml,GSM1180883,Primary T-ALL sample 10-spleen,T ALL Patient,Leukemia
+Aml,GSM1180884,Primary T-ALL sample 11,T ALL Patient,Leukemia
+Aml,GSM1180885,Primary T-ALL sample 12,T ALL Patient,Leukemia
+Aml,GSM1180886,Primary T-ALL sample 13,T ALL Patient,Leukemia
+H,GSM1180887,Normal Granulocyte-5,Granulocytes,Normal
+H,GSM1180888,Normal Granulocyte-6,Granulocytes,Normal
+H,GSM1180889,Normal Granulocyte-7,Granulocytes,Normal
+H,GSM1180890,Normal Granulocyte-8,Granulocytes,Normal
+H,GSM1180891,Normal Granulocyte-9,Granulocytes,Normal
+H,GSM1180892,Normal Granulocyte-10,Granulocytes,Normal
+H,GSM1180893,Normal Granulocyte-11,Granulocytes,Normal
+Aml,GSM1180894,Primary AML sample 201,AML Patient,Leukemia
+Aml,GSM1180895,Primary AML sample 201-bone marrow,AML Patient,Leukemia
+H,GSM1180896,Normal T cell-9,T Cells,Normal
+Aml,GSM1180897,Primary AML sample 9,AML Patient,Leukemia
+Aml,GSM1180898,Primary AML sample 9-spleen,AML Patient,Leukemia
+Aml,GSM1180899,Primary AML sample 14-bone marrow,AML Patient,Leukemia
+H,GSM1180900,Normal B cell-5,B Cells,Normal
+H,GSM1180901,Normal B cell-6,B Cells,Normal
+H,GSM1180902,Normal B cell-7,B Cells,Normal
+H,GSM1180903,Normal B cell-8,B Cells,Normal
+H,GSM1180904,Normal B cell-9,B Cells,Normal
+H,GSM1180905,Normal B cell-10,B Cells,Normal
+H,GSM1180906,Normal B cell-11,B Cells,Normal
+H,GSM1180907,Normal T cell-10,T Cells,Normal
+H,GSM1180908,Normal Monocyte-3,Monocytes,Normal
+H,GSM1180909,Normal Monocyte-4,Monocytes,Normal
+H,GSM1180910,Normal Monocyte-5,Monocytes,Normal
+H,GSM1180911,Normal Monocyte-6,Monocytes,Normal
+H,GSM1180912,Normal Granulocyte-12,Granulocytes,Normal
+H,GSM1180913,Normal T cell-11,T Cells,Normal
+H,GSM1180914,Normal T cell-12,T Cells,Normal
+H,GSM1180915,Normal T cell-13,T Cells,Normal
+H,GSM1180916,Normal T cell-14,T Cells,Normal
+H,GSM1180917,Normal T cell-15,T Cells,Normal
+H,GSM1180918,Normal T cell-16,T Cells,Normal
+H,GSM1180919,Normal T cell-17,T Cells,Normal
